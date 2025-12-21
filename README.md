@@ -7,9 +7,9 @@ List of awesome projects related to Reticulum Network.
 * [Network Stack](#network-stack)
 * [Node Firmware](#node-firmware)
 * [Messangers and Browsers](#messangers-and-browsers)
+* [Transport and Network Interfaces](#transport-and-network-interfaces)
 * [Utilities](#utilities)
 * [Flasher](#flasher)
-* [Transports](#transports)
 * [Publishing Tools](#publishing-tools)
 * [Bot Framework](#bot-framework)
 
@@ -32,6 +32,11 @@ List of awesome projects related to Reticulum Network.
 * [torlando-tech / columba](https://github.com/torlando-tech/columba) - A simple messaging app for the Reticulum network on Android using Bluetooth LE over Reticulum.
 * [Ren / Browser](https://git.quad4.io/Ren/Browser) - A browser for the Reticulum Network.Target platforms: Web, Linux, Windows, MacOS, Android, iOS. Built using Flet.
 
+## Transport and Network Interfaces
+
+* [LFManifesto / ReticulumHF](https://github.com/LFManifesto/ReticulumHF) - Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes.
+* [torlando-tech /  ble-reticulum](https://github.com/torlando-tech/ble-reticulum) - A Bluetooth Low Energy (BLE) interface for Reticulum Network Stack, enabling mesh networking over BLE without additional hardware on Linux devices.
+
 ## Utilities
 
 * [SebastianObi / LXMF-Tools](https://github.com/SebastianObi/LXMF-Tools) - Various small programs and tools which use the message protocol LXMF.
@@ -39,10 +44,6 @@ List of awesome projects related to Reticulum Network.
 ## Flasher
 
 * [liamcottle / rnode-flasher](https://github.com/liamcottle/rnode-flasher) - A web based firmware flasher for Reticulum / RNode_Firmware.
-
-## Transports
-
-* [LFManifesto / ReticulumHF](https://github.com/LFManifesto/ReticulumHF) - Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes.
 
 ## Publishing Tools
 
