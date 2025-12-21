@@ -7,6 +7,7 @@ List of awesome projects related to Reticulum Network.
 * [Core](#core)
 * [Messangers and Browsers](#messangers-and-browsers)
 * [Utilities](#utilities)
+* [Hardware](#hardware)
 
 ## Core
 
@@ -22,3 +23,7 @@ List of awesome projects related to Reticulum Network.
 ## Utilities
 
 * [SebastianObi / LXMF-Tools](https://github.com/SebastianObi/LXMF-Tools) - Various small programs and tools which use the message protocol LXMF.
+
+## Hardware
+
+* [liamcottle / rnode-flasher](https://github.com/liamcottle/rnode-flasher) - A web based firmware flasher for Reticulum / RNode_Firmware.
