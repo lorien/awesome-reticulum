@@ -1,6 +1,6 @@
 # Awesome Reticulum
 
-List of awesome projects related to Reticulum Network.
+Hello! This is a list of awesome projects related to Reticulum Network. The list only includes active projects whose most recent commit is within  the last six months.
 
 ## Contents
 
