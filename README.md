@@ -1,6 +1,8 @@
 # Awesome Reticulum
 
-Hello! This is a list of awesome projects related to Reticulum Network. I add to the list only active projects whose most recent commit is within  the last six months.
+Hello! This is a list of awesome projects related to Reticulum Network.  
+The source code of this list is hosted at github: [github.com/lorien/awesome-reticulum](https://github.com/lorien/awesome-reticulum)  
+Also this list is rendered as HTML page on dedicated domain: [awesome-reticulum.net](https://awesome-reticulum.net)
 
 ## Contents
 
