@@ -62,7 +62,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [RFnexus / FreeDVInterface](https://github.com/RFnexus/FreeDVInterface) - A CustomInterface for Reticulum that provides a plug and play, cross-platform sound modem interface for HF radios using the FreeDV API. It supports VOX, serial, and Hamilb PTT.
 * [R2AirVlad / Reticulum-Network-Over-Icom-D-star-Transceivers](https://github.com/R2AirVlad/Reticulum-Network-Over-Icom-D-star-Transceivers) - This custom RNS (reticulum.network) interface script enables transmission and reception of LXMF packets (MTU 500 bytes) through GMSK modems in Icom transceivers compatible with the D-star standard.
 * [matvik22000 / rns-over-icmp](https://github.com/matvik22000/rns-over-icmp) - This small script allows using ICMP PING packets as a transport layer for Reticulum. It consists of two parts: a client and a server. The server must have a public IP address (or any other way for the client to ping it).
-* [markqvist / Reticulum/discussions/1002](https://github.com/markqvist/Reticulum/discussions/1002) - Guide how to run Reticulum over DNS tunnel using iodine package
+* [github.com/markqvist/Reticulum/discussions/1002](https://github.com/markqvist/Reticulum/discussions/1002) - Guide how to run Reticulum over DNS tunnel using Iodine server.
 
 ## Network Tools
 
