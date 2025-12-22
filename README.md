@@ -11,7 +11,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [LXMF Bots](#lxmf-bots)
 * [Content Server](#content-server)
 * [Flasher](#flasher)
-* [Publishing Tools](#publishing-tools)
+* [Micron Markdown Format](#micron-markdown-format)
 * [Custom Devices](#custom-devices)
 * [Small Tools and Code Examples](#small-tools-and-code-examples)
 
@@ -67,10 +67,11 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 
 * [liamcottle / rnode-flasher](https://github.com/liamcottle/rnode-flasher) - A web based firmware flasher for Reticulum / RNode_Firmware.
 
-## Publishing Tools
+## Micron Markdown Format
 
 * [randogoth / micron-blog](https://codeberg.org/randogoth/micron-blog.git) - Pelican Plug-In and Theme for publishing a site in Micron markup format for Nomad Network Nodes.
 * [randogoth / md2txt](https://codeberg.org/randogoth/md2txt.git) - Transform Markdown into arcane text formats (including NomadNet format).
+* [RFnexus / micron-parser-js](https://github.com/RFnexus/micron-parser-js) - A JavaScript parser for Micron, a lightweight, terminal-friendly markdown format used in NomadNet and MeshChat.
 
 ## LoRa tools
 
