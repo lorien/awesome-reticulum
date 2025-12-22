@@ -18,7 +18,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [Micron Markdown Format](#micron-markdown-format)
 * [LoRa Tools](#lora-tools)
 * [Custom Devices](#custom-devices)
-* [Small Tools and Code Examples](#small-tools-and-code-examples)
+* [Small Utilities and Code Examples](#small-utilities-and-code-examples)
 
 ## Network Stack
 
@@ -105,7 +105,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 * [weltamdraht / ReticulumRasPiRelaySwitch](https://github.com/weltamdraht/ReticulumRasPiRelaySwitch) - This project switches on or off some electrical stuff if an according command is received through Reticulum's lxmf.
 
-## Small Tools and Code Examples
+## Small Utilities and Code Examples
 
 * [antlas0 / rns_tools](https://github.com/antlas0/rns_tools) - This package provides a small range of RNS tools, driven by my curiosity about Reticulum stack.
 * [SebastianObi / RNS-Tools](https://github.com/SebastianObi/RNS-Tools) - Various small programs and tools which use the Reticulum Network Stack RNS
