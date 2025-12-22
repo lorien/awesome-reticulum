@@ -61,3 +61,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 
 * [randogoth / micron-blog](https://codeberg.org/randogoth/micron-blog.git) - Pelican Plug-In and Theme for publishing a site in Micron markup format for Nomad Network Nodes.
 * [randogoth / md2txt](https://codeberg.org/randogoth/md2txt.git) - Transform Markdown into arcane text formats (including NomadNet format).
+
+## LoRa tools
+
+* [markqvist / LoRaMon](https://github.com/markqvist/LoRaMon) - This utility allows you to sniff LoRa networks with an RNode, and dump captured packets to the console or files.
