@@ -43,11 +43,12 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [Reticulum-Interfaces/ RNS-over-HTTP](https://git.quad4.io/Reticulum-Interfaces/RNS-over-HTTP) - A Reticulum interface that tunnels traffic over standard HTTP/S POST requests. This allows Reticulum to operate on networks where only web traffic is permitted, effectively bypassing firewalls, DPI, and other restrictions.
 * [AkitaEngineering / Akita-Dynamic-DDNS-for-Reticulum](https://github.com/AkitaEngineering/Akita-Dynamic-DDNS-for-Reticulum) - Akita DDNS is a robust, decentralized, and dynamic destination naming system (DDNS) built specifically for the Reticulum Network Stack.
 
-## LXMF TOols
+## LXMF Tools
 
 * [SebastianObi / LXMF-Tools](https://github.com/SebastianObi/LXMF-Tools) - Various small programs and tools which use the message protocol LXMF.
 * [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
 * [lxmfy / LXMFy](https://github.com/lxmfy/LXMFy) - Easily create LXMF bots for the Reticulum Network with this extensible framework.
+* [lxmfy / ollama-bot](https://github.com/lxmfy/ollama-bot) - Interact with Ollama LLMs using LXMFy bot framework.
 
 ## Content Server
 
