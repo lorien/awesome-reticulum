@@ -73,6 +73,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [randogoth / micron-blog](https://codeberg.org/randogoth/micron-blog.git) - Pelican Plug-In and Theme for publishing a site in Micron markup format for Nomad Network Nodes.
 * [randogoth / md2txt](https://codeberg.org/randogoth/md2txt.git) - Transform Markdown into arcane text formats (including NomadNet format).
 * [RFnexus / micron-parser-js](https://github.com/RFnexus/micron-parser-js) - A JavaScript parser for Micron, a lightweight, terminal-friendly markdown format used in NomadNet and MeshChat.
+* [fr33n0w / micron-composer](https://github.com/fr33n0w/micron-composer) - A powerful WYSIWYG editor for creating NomadNet-ready .mu pages using the Micron markup language.
 
 ## LoRa tools
 
