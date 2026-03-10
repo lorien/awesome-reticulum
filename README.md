@@ -118,3 +118,5 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 ## Community Discussions
 
 * [reticulum.zulipchat.com](https://reticulum.zulipchat.com) - Reticulum discussion on Zulipchat platform
+* [#reticulum:matrix.org](https://matrix.to/#/#reticulum:matrix.org) - Reticulum discussion on the Matrix platform
+* [#rns-space:yatrix.org](https://matrix.to/#/#rns-space:yatrix.org) - Matrix platform space collecting Reticulum topical discussions
