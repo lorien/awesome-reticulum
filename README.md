@@ -35,6 +35,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 * [markqvist / LXMF](https://github.com/markqvist/LXMF) - A simple and flexible messaging format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible.
 * [markqvist / LXST](https://github.com/markqvist/LXST) - LXST is a simple and flexible real-time streaming format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible.
+* [cotteux / rwebserver](https://github.com/cotteux/rwebserver) - A very basic HTTP server designed to work over the Reticulum Network 
 
 ## Node Firmware
 
@@ -54,6 +55,8 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [fr33n0w / rBrowser](https://github.com/fr33n0w/rBrowser) - A modern, web-based UI for exploring NomadNet nodes and pages over the Reticulum network.
 * [RNS-Things / MeshChatX](https://git.quad4.io/RNS-Things/MeshChatX) - A heavily customized fork of Reticulum MeshChat, any meaningful, stable and tested modifications will be submitted as a PR upstream.
 * [fr33n0w / lxmf-cli](https://github.com/fr33n0w/lxmf-cli) - Feature-Rich Terminal-based LXMF Messaging Client for Reticulum.
+* [cotteux / RetiGemiProxy](https://github.com/cotteux/RetiGemiProxy) - Connect your Lagrange browser (or any Gemini Browser with a proxy option) through Reticulum Network to connect at Gemini Network.
+* [cotteux / RetiHtmlProxy](https://github.com/cotteux/RetiHtmlProxy) - Add to your browser access to Reticulum Network Html servers like rwebserver. 
 
 ## Transports and Network Interfaces
 
@@ -72,6 +75,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 ## Network Tools
 
 * [acehoss / rnsh](https://github.com/acehoss/rnsh) - An utility written in Python that facilitates shell sessions over Reticulum networks. It is based on the rnx utility that ships with Reticulum and aims to provide a similar experience to SSH.
+* [derpyspike / rns_tcp_bridge](https://github.com/derpyspike/rns_tcp_bridge) - This tool allows you to bridge any TCP connection (SSH, VNC, HTTP, etc.) over a Reticulum mesh network. It supports persistent identities, access control (whitelisting), and efficient binary stream buffering.
 
 ## LXMF Bots
 
@@ -85,6 +89,8 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [fr33n0w / thechatroom](https://github.com/fr33n0w/thechatroom) - An IRC-style chat room built for Reticulum NomadNet, optimized for MeshChat v2.1+. Made By F.
 * [gralexey / lxmf-quick-chat](https://github.com/gralexey/lxmf-quick-chat) - A lightweight chat script for NomadNet nodes.
 * [AutumnSpark1226 / nomadForum](https://codeberg.org/AutumnSpark1226/nomadForum) - A forum application for the NomadNetwork.
+* [cotteux / rssnews ](https://github.com/cotteux/rssNews) -  Bring daily Rss news to people to Nomadnet Reticulum network.
+* [cotteux / Rgproxy ](https://github.com/cotteux/RGproxy) -  Nomadnet page to navigate to the Gemini and the Gopher Protocol with this Reticulum network proxy 
 
 ## Flasher
 
@@ -114,6 +120,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [CyberKiska / lxmf-vanity-address-generator-py](https://github.com/CyberKiska/lxmf-vanity-address-generator-py) - A simple CLI tool to generate LXMF vanity addresses in Reticulum network.
 * [SebastianObi / NomadNet-Pages](https://github.com/SebastianObi/NomadNet-Pages) - Various small example pages/programs for usage with the NomadNet node server or rns_server_page.
 * [reticulum.network/manual/examples.html](https://reticulum.network/manual/examples.html) - Examples of using RNS in official documentation.
+* 
 
 ## Community Discussions
 
