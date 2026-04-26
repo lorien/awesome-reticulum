@@ -26,24 +26,24 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [markqvist / Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 * [ion232 / reticulum-zig](https://github.com/ion232/reticulum-zig) - An implementation of Reticulum in Zig targeting operating systems and embedded devices.
 * [attermann / microReticulum](https://github.com/attermann/microReticulum) - Port of Reticulum Network Stack to C++ specifically but not exclusively targeting 32-bit and better MCUs.
-* [0xSeren / RTReticulum](https://github.com/0xSeren/RTReticulum) - Port of Reticulum Network Stack specifically for embedded microcontrollers.
 * [BeechatNetworkSystemsLtd / Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) - Reticulum Networking Stack implementation written in Rust.
 * [Networks / Reticulum-Go](https://git.quad4.io/Networks/Reticulum-Go) - A Go implementation of the Reticulum Network Stack.
 * [sergst83 / reticulum-network-stack](https://github.com/sergst83/reticulum-network-stack) - An implementation of Reticulum network stack in Java.
 * [int32 / reticulum_ex](https://codeberg.org/int32/reticulum_ex) - An implementation of the Reticulum Network Stack in elixir. This implementation is a work in progress and is definitely not ready for day to day use.
+* [0xSeren / RTReticulum](https://github.com/0xSeren/RTReticulum) - Port of Reticulum Network Stack specifically for embedded microcontrollers.
 
 ## Application-Layer Protocols
 
 * [markqvist / LXMF](https://github.com/markqvist/LXMF) - A simple and flexible messaging format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible.
 * [markqvist / LXST](https://github.com/markqvist/LXST) - LXST is a simple and flexible real-time streaming format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible.
-* [KC1AV / RRC](https://rrc.kc1awv.net/) - Reticulum Relay Chat (RRC) is a live chat system built on top of the Reticulum Network, similar to IRC.
+* [KC1AV / RRCd](https://github.com/kc1awv/rrcd) - Reticulum Relay Chat (RRC) is a live chat system built on top of the Reticulum Network, similar to IRC.
 
 ## Node Firmware
 
 * [liberatedsystems / RNode_Firmware_CE](https://github.com/liberatedsystems/RNode_Firmware_CE) - An RNode is an open, free and unrestricted digital radio transceiver. It enables anyone to send and receive any kind of data over both short and very long distances. RNodes can be used with many different kinds of programs and systems, but they are especially well suited for use with Reticulum. The maintained firmware is a fork of the reference firmware: [markqvist / RNode_Firmware](https://github.com/markqvist/RNode_Firmware).
 * [DanBeard / RETCON](https://github.com/DanBeard/RETCON) - RETCON enables quick creation of pre-configured Raspberry Pi images that automatically form resilient mesh networks once deployed.
 * [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) - Standalone device for access and routing within the Reticulum Network Stack
-* [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt. ⚠️ Project is archived.
+* [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt.
 
 ## Messangers and Browsers
 
