@@ -122,7 +122,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 ## Community Discussions
 
+* [rns.recipes](https://rns.recipes/) - Official forum for Reticulum related discussions. Also reachable via NomadNet: `9ce92808be498e9e05590ff27cbfdfe4`.
 * [reticulum.zulipchat.com](https://reticulum.zulipchat.com) - Reticulum discussion on Zulipchat platform
-* [#reticulum:matrix.org](https://matrix.to/#/#reticulum:matrix.org) - Reticulum discussion on the Matrix platform
-* [#rns-space:yatrix.org](https://matrix.to/#/#rns-space:yatrix.org) - Matrix platform space collecting Reticulum topical discussions
-
+* [#rns-space:matrix.org](https://matrix.to/#/#rns-space:yatrix.org) - Matrix platform space collecting Reticulum topical discussions
+* [Reddit /r/reticulum](https://www.reddit.com/r/reticulum/) - Reddit forum.
