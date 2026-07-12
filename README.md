@@ -82,6 +82,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
 * [lxmfy / LXMFy](https://git.quad4.io/LXMFy/LXMFy.git) - Easily create LXMF bots for the Reticulum Network with this extensible framework.
 * [lxmfy / ollama-bot](https://lavaforge.org/lxmfy/ollama-bot) - Interact with Ollama LLMs using LXMFy bot framework.
+* [apolosan / rns_hermes_endpoint](https://github.com/apolosan/rns_hermes_endpoint) - LXMF bridge forwarding Reticulum mesh messages to Hermes Agent for off-grid AI access.
 
 ## NomadNet Applications
 
@@ -124,3 +125,4 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [reticulum.zulipchat.com](https://reticulum.zulipchat.com) - Reticulum discussion on Zulipchat platform
 * [#reticulum:matrix.org](https://matrix.to/#/#reticulum:matrix.org) - Reticulum discussion on the Matrix platform
 * [#rns-space:yatrix.org](https://matrix.to/#/#rns-space:yatrix.org) - Matrix platform space collecting Reticulum topical discussions
+
