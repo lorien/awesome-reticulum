@@ -91,7 +91,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [fr33n0w / thechatroom](https://github.com/fr33n0w/thechatroom) - An IRC-style chat room built for Reticulum NomadNet, optimized for MeshChat v2.1+. Made By F.
 * [gralexey / lxmf-quick-chat](https://github.com/gralexey/lxmf-quick-chat) - A lightweight chat script for NomadNet nodes.
 * [AutumnSpark1226 / nomadForum](https://github.com/AutumnSpark1226/nomadForum) - A forum application for the NomadNetwork.
-
+* [voidw0rks/nomad-pages](https://codeberg.org/voidw0rks/nomad-pages) - A very simple page server for nomadnet, nomadnet-node compatible.
 ## Flasher
 
 * [liamcottle / rnode-flasher](https://github.com/liamcottle/rnode-flasher) - A web based firmware flasher for Reticulum / RNode_Firmware.
