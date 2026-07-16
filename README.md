@@ -28,7 +28,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [ion232 / reticulum-zig](https://github.com/ion232/reticulum-zig) - An implementation of Reticulum in Zig targeting operating systems and embedded devices.
 * [attermann / microReticulum](https://github.com/attermann/microReticulum) - Port of Reticulum Network Stack to C++ specifically but not exclusively targeting 32-bit and better MCUs.
 * [BeechatNetworkSystemsLtd / Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) - Reticulum Networking Stack implementation written in Rust.
-* [Networks / Reticulum-Go](https://git.quad4.io/Networks/Reticulum-Go) - A Go implementation of the Reticulum Network Stack.
+* [Quad4-Software / Reticulum-Go](https://github.com/Quad4-Software/Reticulum-Go) - A high-performance and secure Go implementation of the Reticulum Network Stack.
 * [sergst83 / reticulum-network-stack](https://github.com/sergst83/reticulum-network-stack) - An implementation of Reticulum network stack in Java.
 * [int32 / reticulum_ex](https://codeberg.org/int32/reticulum_ex) - An implementation of the Reticulum Network Stack in elixir. This implementation is a work in progress and is definitely not ready for day to day use.
 * [0xSeren / RTReticulum](https://github.com/0xSeren/RTReticulum) - Port of Reticulum Network Stack specifically for embedded microcontrollers.
@@ -52,10 +52,10 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [markqvist / Sideband](https://github.com/markqvist/Sideband) - Sideband is an extensible LXMF messaging and LXST telephony client, situational awareness tracker and remote control and monitoring system for Android, Linux, macOS and Windows.
 * [liamcottle / reticulum-meshchat](https://github.com/liamcottle/reticulum-meshchat) - A simple mesh network communications app powered by the Reticulum Network Stack.
 * [torlando-tech / columba](https://github.com/torlando-tech/columba) - A simple messaging app for the Reticulum network on Android using Bluetooth LE over Reticulum.
-* [Ren / Browser](https://git.quad4.io/Ren/Browser) - A browser for the Reticulum Network.Target platforms: Web, Linux, Windows, MacOS, Android, iOS. Built using Flet.
+* [Quad4-Software / Ren-Browser](https://github.com/Quad4-Software/Ren-Browser) - A modern browser for the Reticulum Network using Reticulum-Go and Micron-Parser-Go.
 * [kc1awv/ lxst_phone](https://github.com/kc1awv/lxst_phone) - A peer-to-peer voice calling application built on the Reticulum Network Stack.
 * [fr33n0w / rBrowser](https://github.com/fr33n0w/rBrowser) - A modern, web-based UI for exploring NomadNet nodes and pages over the Reticulum network.
-* [RNS-Things / MeshChatX](https://git.quad4.io/RNS-Things/MeshChatX) - A heavily customized fork of Reticulum MeshChat, any meaningful, stable and tested modifications will be submitted as a PR upstream.
+* [Quad4-Software / MeshChatX](https://github.com/Quad4-Software/MeshChatX) - All-in-one Reticulum client. An extensively modified and feature-rich fork of Reticulum MeshChat.
 * [fr33n0w / lxmf-cli](https://github.com/fr33n0w/lxmf-cli) - Feature-Rich Terminal-based LXMF Messaging Client for Reticulum.
 * [anonmesh / mobile_app](https://github.com/anonmesh/mobile_app/) - anonmesh is a messaging and off-grid transactions over Solana mobile app supported on : iOS / Android.
 
@@ -63,7 +63,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 * [LFManifesto / ReticulumHF](https://github.com/LFManifesto/ReticulumHF) - Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes.
 * [torlando-tech /  ble-reticulum](https://github.com/torlando-tech/ble-reticulum) - A Bluetooth Low Energy (BLE) interface for Reticulum Network Stack, enabling mesh networking over BLE without additional hardware on Linux devices.
-* [Reticulum-Things / RNS-over-HTTP](https://lavaforge.org/Reticulum-Things/RNS-over-HTTP) - A Reticulum interface that tunnels traffic over standard HTTP/S POST requests. This allows Reticulum to operate on networks where only web traffic is permitted, effectively bypassing firewalls, DPI, and other restrictions.
+* [Quad4-Software / RNS-over-HTTP](https://github.com/Quad4-Software/RNS-over-HTTP) - HTTP interface for RNS that tunnels traffic over HTTP/S POST requests.
 * [BeechatNetworkSystemsLtd / rns-tun-rs](https://github.com/BeechatNetworkSystemsLtd/rns-tun-rs) - Reticulum TUN adapter
 * [BeechatNetworkSystemsLtd / rns-vpn-rs](https://github.com/BeechatNetworkSystemsLtd/rns-vpn-rs) - Library and application for VPN client over Reticulum mesh network.
 * [BeechatNetworkSystemsLtd / rns-mavlink-rs](https://github.com/BeechatNetworkSystemsLtd/rns-mavlink-rs) - Bridges a flight controller connectd via serial port to a QGroundControl ground station over Reticulum mesh network.
@@ -81,13 +81,13 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 ## LXMF Bots
 
 * [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
-* [lxmfy / LXMFy](https://git.quad4.io/LXMFy/LXMFy.git) - Easily create LXMF bots for the Reticulum Network with this extensible framework.
+* [Quad4-Software / LXMFy](https://github.com/Quad4-Software/LXMFy) - Extensible LXMF bot framework for the Reticulum Network with CLI, scheduling, cogs, spam protection, and offline NLP.
 * [lxmfy / ollama-bot](https://lavaforge.org/lxmfy/ollama-bot) - Interact with Ollama LLMs using LXMFy bot framework.
 * [apolosan / rns_hermes_endpoint](https://github.com/apolosan/rns_hermes_endpoint) - LXMF bridge forwarding Reticulum mesh messages to Hermes Agent for off-grid AI access.
 
 ## NomadNet Applications
 
-* [RNS-Things / rns-page-node](https://git.quad4.io/RNS-Things/rns-page-node) - A simple way to serve pages and files over the Reticulum network. Drop-in replacement for NomadNet nodes that primarily serve pages and files.
+* [Quad4-Software / rns-page-node](https://github.com/Quad4-Software/rns-page-node) - Serve NomadNet pages and files over the Reticulum network.
 * [fr33n0w / thechatroom](https://github.com/fr33n0w/thechatroom) - An IRC-style chat room built for Reticulum NomadNet, optimized for MeshChat v2.1+. Made By F.
 * [gralexey / lxmf-quick-chat](https://github.com/gralexey/lxmf-quick-chat) - A lightweight chat script for NomadNet nodes.
 * [AutumnSpark1226 / nomadForum](https://github.com/AutumnSpark1226/nomadForum) - A forum application for the NomadNetwork.
