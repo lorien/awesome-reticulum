@@ -93,6 +93,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [gralexey / lxmf-quick-chat](https://github.com/gralexey/lxmf-quick-chat) - A lightweight chat script for NomadNet nodes.
 * [AutumnSpark1226 / nomadForum](https://github.com/AutumnSpark1226/nomadForum) - A forum application for the NomadNetwork.
 * [voidw0rks/nomad-pages](https://codeberg.org/voidw0rks/nomad-pages) - A very simple page server for nomadnet, nomadnet-node compatible.
+* [iz0kew / camera-ascii-nomadnet](https://github.com/iz0kew/camera-ascii-nomadnet) - Serves an ONVIF/RTSP camera snapshot as ASCII art on a NomadNet page, with a low-bandwidth mono mode for LoRa interfaces and a Flask web UI for live preview/configuration.
 ## Flasher
 
 * [liamcottle / rnode-flasher](https://github.com/liamcottle/rnode-flasher) - A web based firmware flasher for Reticulum / RNode_Firmware.
