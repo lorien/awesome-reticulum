@@ -32,6 +32,8 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [sergst83 / reticulum-network-stack](https://github.com/sergst83/reticulum-network-stack) - An implementation of Reticulum network stack in Java.
 * [int32 / reticulum_ex](https://codeberg.org/int32/reticulum_ex) - An implementation of the Reticulum Network Stack in elixir. This implementation is a work in progress and is definitely not ready for day to day use.
 * [0xSeren / RTReticulum](https://github.com/0xSeren/RTReticulum) - Port of Reticulum Network Stack specifically for embedded microcontrollers.
+* [reticulaLabs / reticulum-sdk](https://github.com/ReticulaLabs/reticulum-sdk) - An extremely stable and high-performance of Reticulum in Rust.  Shown functional on high-bandwidth transport nodes as well as low-resource ESP32 devices. Supports a wide range of interface hardware.
+* [reticulaLabs / reticulum-router](https://github.com/ReticulaLabs/reticulum-router) - A Reticulum transport and tools based on the Rust reticulum-sdk which are well tested and running multiple public Reticulum transport nodes on the network today.
 
 ## Application-Layer Protocols
 
@@ -62,7 +64,8 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [anonmesh / mobile_app](https://github.com/anonmesh/mobile_app/) - anonmesh is a messaging and off-grid transactions over Solana mobile app supported on : iOS / Android.
 * [Colorado-Mesh / mesh-client](https://github.com/Colorado-Mesh/mesh-client) - Cross-platform desktop client for Reticulum (LXMF), Meshtastic, and MeshCore on macOS, Linux, and Windows.
 * [rek2 / Micron-Navigator](https://git.sr.ht/~rek2/Micron-Navigator) - Terminal TUI browser for NomadNet over Reticulum with vim keybinds.
-*
+* [ReticulaLabs / reticula](https://github.com/ReticulaLabs/reticula) - A Rust-based Reticulum messenger and NomadNet browser for the ESP32-based LilyGo TDeck.  Uses the reticulum-sdk.
+
 ## Transports and Network Interfaces
 
 * [LFManifesto / ReticulumHF](https://github.com/LFManifesto/ReticulumHF) - Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes.
