@@ -77,7 +77,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [matvik22000 / rns-over-icmp](https://github.com/matvik22000/rns-over-icmp) - This small script allows using ICMP PING packets as a transport layer for Reticulum. It consists of two parts: a client and a server. The server must have a public IP address (or any other way for the client to ping it).
 * [github.com/markqvist/Reticulum/discussions/1002](https://github.com/markqvist/Reticulum/discussions/1002) - Guide how to run Reticulum over DNS tunnel using Iodine server.
 * [jardous / meshchat](https://github.com/jardous/meshchat) - Two chat console applications. One very simple p2p chat console application over Reticulum. The second can communicate with other LXMF clients (Reticulum MeshChat, Sideband)
-* [cubeos-app / MeshSat](https://github.com/cubeos-app/meshsat) - Gateway that carries Reticulum over bearers that cannot normally reach each other, including Meshtastic LoRa, Iridium satellite (RockBLOCK 9603 SBD and 9704 IMT), cellular SMS, AX.25, ZigBee and BLE, with cost-aware path selection so traffic prefers the free bearers. Interoperates with Python RNS. Runs as a Docker container on a Raspberry Pi.
+* [meshsat / MeshSat](https://github.com/meshsat/meshsat) - Gateway that carries Reticulum over bearers that cannot normally reach each other, including Meshtastic LoRa, Iridium satellite (RockBLOCK 9603 SBD and 9704 IMT), cellular SMS, AX.25, ZigBee and BLE, with cost-aware path selection so traffic prefers the free bearers. Interoperates with Python RNS. Runs as a Docker container on a Raspberry Pi.
 
 ## Network Tools
 
