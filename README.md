@@ -19,7 +19,6 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [LoRa Tools](#lora-tools)
 * [Custom Devices](#custom-devices)
 * [Small Utilities and Code Examples](#small-utilities-and-code-examples)
-* [Network Infrastructure](#network-infrastructure)
 * [Community Discussions](#community-discussions)
 
 ## Network Stack
@@ -66,6 +65,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [Colorado-Mesh / mesh-client](https://github.com/Colorado-Mesh/mesh-client) - Cross-platform desktop client for Reticulum (LXMF), Meshtastic, and MeshCore on macOS, Linux, and Windows.
 * [rek2 / Micron-Navigator](https://git.sr.ht/~rek2/Micron-Navigator) - Terminal TUI browser for NomadNet over Reticulum with vim keybinds.
 * [ReticulaLabs / reticula](https://github.com/ReticulaLabs/reticula) - A Rust-based Reticulum messenger and NomadNet browser for the ESP32-based LilyGo TDeck.  Uses the reticulum-sdk.
+* [jardous / meshchat](https://github.com/jardous/meshchat) - Two chat console applications. One very simple p2p chat console application over Reticulum. The second can communicate with other LXMF clients (Reticulum MeshChat, Sideband)
 
 ## Transports and Network Interfaces
 
@@ -80,9 +80,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [R2AirVlad / Reticulum-Network-Over-Icom-D-star-Transceivers](https://github.com/R2AirVlad/Reticulum-Network-Over-Icom-D-star-Transceivers) - This custom RNS (reticulum.network) interface script enables transmission and reception of LXMF packets (MTU 500 bytes) through GMSK modems in Icom transceivers compatible with the D-star standard.
 * [matvik22000 / rns-over-icmp](https://github.com/matvik22000/rns-over-icmp) - This small script allows using ICMP PING packets as a transport layer for Reticulum. It consists of two parts: a client and a server. The server must have a public IP address (or any other way for the client to ping it).
 * [github.com/markqvist/Reticulum/discussions/1002](https://github.com/markqvist/Reticulum/discussions/1002) - Guide how to run Reticulum over DNS tunnel using Iodine server.
-* [jardous / meshchat](https://github.com/jardous/meshchat) - Two chat console applications. One very simple p2p chat console application over Reticulum. The second can communicate with other LXMF clients (Reticulum MeshChat, Sideband)
 * [meshsat / MeshSat](https://github.com/meshsat/meshsat) - Gateway that carries Reticulum over bearers that cannot normally reach each other, including Meshtastic LoRa, Iridium satellite (RockBLOCK 9603 SBD and 9704 IMT), cellular SMS, AX.25, ZigBee and BLE, with cost-aware path selection so traffic prefers the free bearers. Interoperates with Python RNS. Runs as a Docker container on a Raspberry Pi.
-* [cubeos-app / MeshSat](https://github.com/cubeos-app/meshsat) - Gateway that carries Reticulum over bearers that cannot normally reach each other, including Meshtastic LoRa, Iridium satellite (RockBLOCK 9603 SBD and 9704 IMT), cellular SMS, AX.25, ZigBee and BLE, with cost-aware path selection so traffic prefers the free bearers. Interoperates with Python RNS. Runs as a Docker container on a Raspberry Pi.
 * [Resilum / resilum-core](https://github.com/Resilum/resilum-core) - A multi-transport Reticulum node in Rust, fully backwards compatible with the Python implementation. One peer identity across every interface the node carries — TCP/IP, UDP, Tor, I2P, Yggdrasil, QUIC, BLE and ICMP echo among them, with more added over time. A link follows whichever interface can reach the peer right now, and the destination hash does not change when one of them dies. Carries LXMF messaging and a SOCKS5 egress, and ships as a Docker image.
 
 ## Network Tools
@@ -119,6 +117,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 
 * [markqvist / LoRaMon](https://github.com/markqvist/LoRaMon) - This utility allows you to sniff LoRa networks with an RNode, and dump captured packets to the console or files.
 * [randogoth / lora-transmit](https://codeberg.org/randogoth/lora-transmit.git) - Simple commandline raw LoRa packet transmitter for RNode hardware.
+* [0xSeren / Reticulum-Network-Planner](https://github.com/0xSeren/Reticulum-Network-Planner) - Application that computes, based on geographical data, ideal locations for a predefined number of LoRa nodes within a predefined area.
 
 ## Custom Devices
 
@@ -132,10 +131,6 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [CyberKiska / lxmf-vanity-address-generator-py](https://github.com/CyberKiska/lxmf-vanity-address-generator-py) - A simple CLI tool to generate LXMF vanity addresses in Reticulum network.
 * [SebastianObi / NomadNet-Pages](https://github.com/SebastianObi/NomadNet-Pages) - Various small example pages/programs for usage with the NomadNet node server or rns_server_page.
 * [reticulum.network/manual/examples.html](https://reticulum.network/manual/examples.html) - Examples of using RNS in official documentation.
-
-## Network Infrastructure
-
-* [Reticulum Network Planner](https://github.com/0xSeren/Reticulum-Network-Planner) - Application that computes, based on geographical data, ideal locations for a predefined number of LoRa nodes within a predefined area.
 
 ## Community Discussions
 
