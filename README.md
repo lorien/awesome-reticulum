@@ -47,6 +47,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt.
 * [e2ret / NOEMA-RNSGate-Lite](https://github.com/e2ret/NOEMA-RNSGate-Lite) - A Reticulum mesh gateway combining LoRa (RNode), an LXMF↔MQTT bridge for Home Assistant, I2P tunneling, and a NomadNet node, all managed through a web dashboard without SSH.
 * [e2ret / NOEMA-RNSGate-FULL](https://github.com/e2ret/NOEMA-RNSGate-FULL) - A full-featured Reticulum mesh gateway with an integrated RNS stack, LoRa (RNode), LXMF↔MQTT bridge for Home Assistant, I2P tunneling, NomadNet node, built-in P2P chat, and a web dashboard with a terminal, node tracker, and live interface management.
+* [sergds / RP_RNode_Firmware_CE](https://github.com/sergds/RP_RNode_Firmware_CE) - A slightly opinionated fork of RNode Community Edition aiming to add support for boards based on Raspberry Pi MCUs.
 
 ## Messengers and Browsers
 
